@@ -1,0 +1,31 @@
+newmtl Serena
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Serena 1
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Serena 2
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Serena 3
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Serena 4
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Serena 5
+Kd 0.937 0.937 0.937
+d 1.000
+newmtl Andres
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Aria 2
+Kd 0.000 0.000 0.000
+d 1.000
+newmtl Abstract
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Linear_Gradient_Texture.jpg
+newmtl Flora
+Kd 1.000 1.000 1.000
+d 1.000
